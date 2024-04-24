@@ -10,9 +10,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2fSzw9fJ01GDmUSvwFOXlQixfx8" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,7 +24,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/UDEMY/Java/exe while",
+    "last_opened_file_path": "D:/UDEMY/Java/exe while/exe1",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -45,6 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1713809502319</updated>
       <workItem from="1713809503366" duration="42000" />
+      <workItem from="1713954932399" duration="79000" />
     </task>
     <servers />
   </component>
