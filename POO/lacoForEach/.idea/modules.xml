@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/lacoForEach.iml" filepath="$PROJECT_DIR$/lacoForEach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lacoForEach.iml" filepath="$PROJECT_DIR$/.idea/lacoForEach.iml" />
     </modules>
   </component>
 </project>
