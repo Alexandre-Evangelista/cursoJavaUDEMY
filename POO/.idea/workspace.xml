@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d64cb348-7bf2-47b3-b627-5d2f8ca48210" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/aluno/aluno.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/construtores/construtores.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conta bancaria/conta bancaria.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dollar/dollar.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulamento/encapsulamento.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe2 vet/exe2 vet.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exeVetorPensionato/exeVetorPensionato.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exerLista/exerLista.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios de fixacao vetores/exe1/exe1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios de fixacao vetores/exe11/exe11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios de fixacao vetores/exe2/exe2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios de fixacao vetores/exe3/exe3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios de fixacao vetores/exe5/exe5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios de fixacao vetores/exe6/exe6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios de fixacao vetores/exe7/exe7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios de fixacao vetores/exe8/exe8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios de fixacao vetores/exer10/exer10.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios de fixacao vetores/exer4/exer4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios de fixacao vetores/exer9/exer9.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exermatriz/exermatriz.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fucionario/fucionario.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lacoForEach/lacoForEach.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/listas/listas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrizes/matrizes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mebrosEstaticos/mebrosEstaticos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/produtosEmEstoque/produtosEmEstoque.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retangulo/retangulo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sobrecarga/sobrecarga.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/triandulo com poo/triandulo com poo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/triangulo/triangulo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vetores/vetores.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2jpLtYSKCWzbRRPQhRV8SLcAHA2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/UDEMY/Java/POO/exermatriz",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d64cb348-7bf2-47b3-b627-5d2f8ca48210" name="Changes" comment="" />
+      <created>1722079288342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722079288342</updated>
+      <workItem from="1722079289727" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

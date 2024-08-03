@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/POO.iml" filepath="$PROJECT_DIR$/.idea/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aluno/aluno.iml" filepath="$PROJECT_DIR$/aluno/aluno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/construtores/construtores.iml" filepath="$PROJECT_DIR$/construtores/construtores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conta bancaria/conta bancaria.iml" filepath="$PROJECT_DIR$/conta bancaria/conta bancaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dollar/dollar.iml" filepath="$PROJECT_DIR$/dollar/dollar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encapsulamento/encapsulamento.iml" filepath="$PROJECT_DIR$/encapsulamento/encapsulamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios de fixacao vetores/exe1/exe1.iml" filepath="$PROJECT_DIR$/exercicios de fixacao vetores/exe1/exe1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios de fixacao vetores/exe11/exe11.iml" filepath="$PROJECT_DIR$/exercicios de fixacao vetores/exe11/exe11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios de fixacao vetores/exe2/exe2.iml" filepath="$PROJECT_DIR$/exercicios de fixacao vetores/exe2/exe2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exe2 vet/exe2 vet.iml" filepath="$PROJECT_DIR$/exe2 vet/exe2 vet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios de fixacao vetores/exe3/exe3.iml" filepath="$PROJECT_DIR$/exercicios de fixacao vetores/exe3/exe3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios de fixacao vetores/exe5/exe5.iml" filepath="$PROJECT_DIR$/exercicios de fixacao vetores/exe5/exe5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios de fixacao vetores/exe6/exe6.iml" filepath="$PROJECT_DIR$/exercicios de fixacao vetores/exe6/exe6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios de fixacao vetores/exe7/exe7.iml" filepath="$PROJECT_DIR$/exercicios de fixacao vetores/exe7/exe7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios de fixacao vetores/exe8/exe8.iml" filepath="$PROJECT_DIR$/exercicios de fixacao vetores/exe8/exe8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exeVetorPensionato/exeVetorPensionato.iml" filepath="$PROJECT_DIR$/exeVetorPensionato/exeVetorPensionato.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios de fixacao vetores/exer10/exer10.iml" filepath="$PROJECT_DIR$/exercicios de fixacao vetores/exer10/exer10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios de fixacao vetores/exer4/exer4.iml" filepath="$PROJECT_DIR$/exercicios de fixacao vetores/exer4/exer4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios de fixacao vetores/exer9/exer9.iml" filepath="$PROJECT_DIR$/exercicios de fixacao vetores/exer9/exer9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerLista/exerLista.iml" filepath="$PROJECT_DIR$/exerLista/exerLista.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exermatriz/exermatriz.iml" filepath="$PROJECT_DIR$/exermatriz/exermatriz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fucionario/fucionario.iml" filepath="$PROJECT_DIR$/fucionario/fucionario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lacoForEach/lacoForEach.iml" filepath="$PROJECT_DIR$/lacoForEach/lacoForEach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listas/listas.iml" filepath="$PROJECT_DIR$/listas/listas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matrizes/matrizes.iml" filepath="$PROJECT_DIR$/matrizes/matrizes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mebrosEstaticos/mebrosEstaticos.iml" filepath="$PROJECT_DIR$/mebrosEstaticos/mebrosEstaticos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/produtosEmEstoque/produtosEmEstoque.iml" filepath="$PROJECT_DIR$/produtosEmEstoque/produtosEmEstoque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retangulo/retangulo.iml" filepath="$PROJECT_DIR$/retangulo/retangulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sobrecarga/sobrecarga.iml" filepath="$PROJECT_DIR$/sobrecarga/sobrecarga.iml" />
+      <module fileurl="file://$PROJECT_DIR$/triandulo com poo/triandulo com poo.iml" filepath="$PROJECT_DIR$/triandulo com poo/triandulo com poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/triangulo/triangulo.iml" filepath="$PROJECT_DIR$/triangulo/triangulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vetores/vetores.iml" filepath="$PROJECT_DIR$/vetores/vetores.iml" />
+    </modules>
+  </component>
+</project>
